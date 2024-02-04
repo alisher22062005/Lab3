@@ -1,4 +1,5 @@
 def result (m):
+  print(x)
   if x["imdb"]>5.5:
    return "True"
   else:
